@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22178147-7fdd-44ad-89a4-e546017975eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractise108Team.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day01/Q1_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day01/Q2_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day02/Q02_SwitchCase_HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day02/Q1_RakamPozitifSayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day03/Q1_Dikücgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day03/Q2_BolmeOperatoruKullanmadanBolme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day04/Q1_ArraylerinOrtakElemanlariniBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day04/Q1_ArraylerinOrtakElemanlariniBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day04/Q2_ArraydekiSayilarinToplami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day04/Q2_ArraydekiSayilarinToplami.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day05/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,25 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="test.day03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q02_SwitchCase_HesapMakinesi">
-    <configuration name="Q02_SwitchCase_HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day02.Q02_SwitchCase_HesapMakinesi" />
+  <component name="RunManager" selected="Application.Q04">
+    <configuration name="Q01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q01" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day02.*" />
+          <option name="PATTERN" value="test.day06_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day01.Q1_Print" />
+    <configuration name="Q02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q02" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day01.*" />
+          <option name="PATTERN" value="test.day06_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_RakamPozitifSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day02.Q1_RakamPozitifSayi" />
+    <configuration name="Q03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q03" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day02.*" />
+          <option name="PATTERN" value="test.day06_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day02.Q2_Print" />
+    <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q04" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day02.*" />
+          <option name="PATTERN" value="test.day06_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.day01.Q2_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day01.Q2_Print" />
+    <configuration name="test.day05.Q01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day05.Q01" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day01.*" />
+          <option name="PATTERN" value="test.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q02_SwitchCase_HesapMakinesi" />
-        <item itemvalue="Application.Q1_RakamPozitifSayi" />
-        <item itemvalue="Application.test.day01.Q2_Print" />
-        <item itemvalue="Application.Q2_Print" />
-        <item itemvalue="Application.Q1_Print" />
+        <item itemvalue="Application.Q04" />
+        <item itemvalue="Application.Q03" />
+        <item itemvalue="Application.test.day05.Q01" />
+        <item itemvalue="Application.Q02" />
+        <item itemvalue="Application.Q01" />
       </list>
     </recent_temporary>
   </component>
