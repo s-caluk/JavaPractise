@@ -1,4 +1,4 @@
-package test.day06_arrays;
+package test.day05_arrays;
 
 public class Q02 {
     /*

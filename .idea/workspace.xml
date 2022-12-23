@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22178147-7fdd-44ad-89a4-e546017975eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day05_arrays/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day05_arrays/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day06/Q1_BirimDonusturucu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day04/Q1_ArraylerinOrtakElemanlariniBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day04/Q1_ArraylerinOrtakElemanlariniBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day04/Q2_ArraydekiSayilarinToplami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day04/Q2_ArraydekiSayilarinToplami.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day05/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day06_arrays/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day05/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day05/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day05/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day05/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05_arrays/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05_arrays/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05_arrays/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day05_arrays/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day06_arrays/Q06.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +55,13 @@
       <recent name="test.day03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q04">
-    <configuration name="Q01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q01" />
+  <component name="RunManager" selected="Application.Q1_BirimDonusturucu">
+    <configuration name="Q1_BirimDonusturucu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day06.Q1_BirimDonusturucu" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day06_arrays.*" />
+          <option name="PATTERN" value="test.day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q02" />
+    <configuration name="test.day05.Q02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day05.Q02" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day06_arrays.*" />
+          <option name="PATTERN" value="test.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q03" />
+    <configuration name="test.day05.Q03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day05.Q03" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day06_arrays.*" />
+          <option name="PATTERN" value="test.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day06_arrays.Q04" />
+    <configuration name="test.day05.Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day05.Q04" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day06_arrays.*" />
+          <option name="PATTERN" value="test.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.day05.Q01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day05.Q01" />
+    <configuration name="test.day05.Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day05.Q05" />
       <module name="JavaPractise108Team" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q04" />
-        <item itemvalue="Application.Q03" />
-        <item itemvalue="Application.test.day05.Q01" />
-        <item itemvalue="Application.Q02" />
-        <item itemvalue="Application.Q01" />
+        <item itemvalue="Application.Q1_BirimDonusturucu" />
+        <item itemvalue="Application.test.day05.Q05" />
+        <item itemvalue="Application.test.day05.Q04" />
+        <item itemvalue="Application.test.day05.Q03" />
+        <item itemvalue="Application.test.day05.Q02" />
       </list>
     </recent_temporary>
   </component>

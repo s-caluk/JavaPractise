@@ -1,6 +1,5 @@
-package test.day06_arrays;
+package test.day05_arrays;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Q05 {

@@ -1,4 +1,4 @@
-package test.day06_arrays;
+package test.day05_arrays;
 
 import java.util.Arrays;
 import java.util.Random;
